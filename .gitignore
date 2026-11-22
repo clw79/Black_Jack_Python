@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Test and tool caches
+.pytest_cache/
+.ruff_cache/
+
+# Editor and OS files
+.vscode/
+Thumbs.db
+desktop.ini
+
+# Personal notes (not shared)
+PROGRESS.md
